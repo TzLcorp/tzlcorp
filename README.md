@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I like to design console applications, user and interface units, and use operating system functions. I create projects like a dll injector, or facilitating functions used in graphics libraries. I hope the projects I have done will be useful to you and I continue to improve myself day by day. - tzl
+I like to design console applications, user and interface units, and use operating system functions. I create projects like a dll injector, or facilitating functions used in graphics libraries. I hope the projects I have done will be useful to you.
 
 <!--
 **TzLcorp/tzlcorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
